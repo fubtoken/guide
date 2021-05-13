@@ -1,6 +1,6 @@
 export default {
-  repository: 'https://github.com/shuding/nextra',
-  titleSuffix: ' – Nextra',
+  repository: 'https://github.com/fubtoken/guide',
+  titleSuffix: ' – FUB',
   logo: (
     <>
       <span className="mr-2 font-extrabold hidden md:inline">FUB</span>
