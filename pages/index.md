@@ -17,4 +17,4 @@ FUB 社区不追热度，项目由社区成员共同主导，社区承诺永不�
 ## 官方账号
 
 - Twitter：https://twitter.com/Fubtoken
-- Telegram: https://t.me/joinchat/SE04MIm_hk82YTVl
+- Telegram: https://t.me/fubtoken
