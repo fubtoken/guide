@@ -5,10 +5,10 @@
 
 1 首先点击右上角的connect连接自己的钱包
 
-![](/pancake-connect.png)
+![](/public/pancake-connect.png)
 
 
-![](/pancake-wallet.png)
+![](/public/pancake-wallet.png)
 
 这里选择自己的钱包即可,比如我就是用的第一个小狐狸
 
@@ -18,7 +18,7 @@
 
 确保钱包的BNB账户里面有余额
 
-![](/add-liquidity.png)
+![](/public/add-liquidity.png)
 
 4 选择 `BNB`和`FUB` 如果`FUB`不存在的话就输入`0x369d7c7fe353bebf89acb80ffdcaeb83c95d64ec`合约地址添加
 
