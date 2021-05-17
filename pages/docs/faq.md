@@ -40,4 +40,4 @@ imtoken 要用 ETH 钱包，然后需要更换节点才能使用，步骤先点�
 
 - 代币合约 `0x369d7c7fe353bebf89acb80ffdcaeb83c95d64ec`
 - symbol `FUB`
-- 代币精读 `18`
+- 代币精度 `18`
