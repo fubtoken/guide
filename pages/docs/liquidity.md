@@ -1,25 +1,25 @@
 # 增加流动性
 
-进入[PancakeSwap](https://exchange.pancakeswap.finance/)
+## 手机端操作
 
-1 首先点击右上角的 connect 连接自己的钱包
+使用前面提到的 Token Pockent 钱包，在「发现」栏目搜索「PancakeSwap」然后点击进入
 
-![](/pancake-connect.png)
+![](/4375897584735.jpeg)
 
-![](/pancake-wallet.png)
+进入后首先右上角点击 Connect 链接钱包
 
-这里选择自己的钱包即可,比如我就是用的第一个小狐狸
+![](/347598475897438.jpeg)
 
-2 连接完毕之后点击左侧的 `Trade->Liquidity`
+链接页面选择 TokenPocket
 
-3 然后点击 `Add Liquidity` 按钮
+![](/94384983948.jpeg)
 
-确保钱包的 BNB 账户里面有余额
+然后 tab 切换到 `Liquidity`，点击 `Add Liquidity`
+
+![](/3389457893758435.jpeg)
+
+然后选择 `BNB` 和 `FUB` （如果 `FUB` 不存在的话就输入`0x369d7c7fe353bebf89acb80ffdcaeb83c95d64ec`合约地址添加），填入你有的数量，注意这里的数量得是配对的，即 `BNB` 和 `FUB` 的价值得是相等的。然后你第一次操作的话，会需要点 `Approve`、然后再点 `Supply`，反正一路确认就好。区块链上的操作有时候不那么灵敏，网络不好的话，你就多试几次。在下面可以看到自己添加的流动性金额。
 
 ![](/add-liquidity.png)
 
-4 选择 `BNB`和`FUB` 如果`FUB`不存在的话就输入`0x369d7c7fe353bebf89acb80ffdcaeb83c95d64ec`合约地址添加
-
-5 输入完金额之后点击 `Supply`添加流动性就完成了。在下面可以看到自己添加的流动性金额。
-
-注意: 这里添加 BNB 进去之后钱并不是不见了，只是将你的钱放进池子里增加流动性，并且可以获得收益。
+注意: 这里添加 `BNB` 进去之后钱并不是不见了，只是将你的钱放进池子里增加流动性，并且可以获得收益。
